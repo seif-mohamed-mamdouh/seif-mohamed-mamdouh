@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Seif 👋
 
-<!--
-**seif-mohamed-mamdouh/seif-mohamed-mamdouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer and Computer Science graduate based in Hurghada, Egypt.
 
-Here are some ideas to get you started:
+I enjoy building responsive and user-friendly web applications using modern front-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Front-End Developer
+- Programming Teacher at WE Applied Technology Schools
+- B.Sc. in Computer Science
+- Interested in React and modern web development
+- Building practical web applications and improving my software engineering skills
+
+## Tech Stack
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Programming
+
+- Python
+- C++
+
+### Backend & Database
+
+- PHP
+- SQL
+- REST APIs
+
+### Mobile
+
+- Flutter
+
+### Tools
+
+- Git
+- GitHub
+
+## Featured Projects
+
+Projects coming below.
+
+## Connect With Me
+
+- LinkedIn
+- Email
