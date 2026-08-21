@@ -42,11 +42,9 @@ I enjoy building responsive and user-friendly web applications using modern fron
 - Git
 - GitHub
 
-## Featured Projects
-
-Projects coming below.
 
 ## Connect With Me
 
-- LinkedIn
-- Email
+- LinkedIn: www.linkedin.com/in/seif-mohamed-70270538a
+
+- Email: saif.ufo@gmail.com
